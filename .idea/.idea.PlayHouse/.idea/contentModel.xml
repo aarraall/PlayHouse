@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Aral\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Aral\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_PlayHouse.-143050071.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Aral\Desktop\PlayHouse" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Basic Practices" t="Include">
+            <e p="ArrayPractice1.cs" t="Include" />
+            <e p="ArrayPractice2.cs" t="Include" />
+            <e p="LoopPlay.cs" t="Include" />
+            <e p="MethodPractice1.cs" t="Include" />
+            <e p="MethodPractice2.cs" t="Include" />
+          </e>
+          <e p="Intermediate Practices" t="Include">
+            <e p="Class Inheritence Practices" t="Include">
+              <e p="ClassInheritance3" t="Include">
+                <e p="Dog.cs" t="Include" />
+                <e p="Duck.cs" t="Include" />
+                <e p="Pet.cs" t="Include" />
+              </e>
+              <e p="ClassInheritence1" t="Include">
+                <e p="Consumables.cs" t="Include" />
+                <e p="Item.cs" t="Include" />
+                <e p="ItemDatabase.cs" t="Include" />
+                <e p="Weapons.cs" t="Include" />
+              </e>
+              <e p="ClassInheritence2" t="Include">
+                <e p="Bank.cs" t="Include" />
+                <e p="BankManager.cs" t="Include" />
+                <e p="CreditUnionBehavior.cs" t="Include" />
+                <e p="FederalCreditUnions.cs" t="Include" />
+              </e>
+              <e p="Statics" t="Include">
+                <e p="Challenge1" t="Include">
+                  <e p="ColorChangerUtility.cs" t="Include" />
+                  <e p="Mlayer.cs" t="Include" />
+                </e>
+                <e p="Challenge2" t="Include">
+                  <e p="InıtializeStatic.cs" t="Include" />
+                </e>
+                <e p="Static vs. Instance" t="Include">
+                  <e p="Jest.cs" t="Include" />
+                </e>
+                <e p="StaticPractice1" t="Include">
+                  <e p="Score.cs" t="Include" />
+                  <e p="Test.cs" t="Include" />
+                </e>
+                <e p="StaticPractice2" t="Include">
+                  <e p="EnemyBehavior.cs" t="Include" />
+                  <e p="SpawnManager.cs" t="Include" />
+                  <e p="UIManager.cs" t="Include" />
+                </e>
+                <e p="UtilityHelper" t="Include">
+                  <e p="Player.cs" t="Include" />
+                  <e p="UtilityHelper.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Struct" t="Include">
+                <e p="Struct.cs" t="Include" />
+              </e>
+            </e>
+            <e p="ClassPractice1" t="Include">
+              <e p="ClassPractice_Item.cs" t="Include" />
+              <e p="ClassPractice_ItemDatabase.cs" t="Include" />
+            </e>
+            <e p="ClassPractice2" t="Include">
+              <e p="CustomerDatabase.cs" t="Include" />
+              <e p="Customers.cs" t="Include" />
+            </e>
+            <e p="ClassPractice3" t="Include">
+              <e p="Spells.cs" t="Include" />
+              <e p="Wizard.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Intermediate Practices 2" t="Include">
+            <e p="Dictionary" t="Include">
+              <e p="ConnectToPlayer" t="Include">
+                <e p="Main.cs" t="Include" />
+              </e>
+              <e p="Intro" t="Include">
+                <e p="Item.cs" t="Include" />
+                <e p="ItemDB.cs" t="Include" />
+              </e>
+              <e p="Using w Primitives" t="Include">
+                <e p="Main.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Enums" t="Include">
+              <e p="EnemyAI" t="Include">
+                <e p="EnemyAI.cs" t="Include" />
+              </e>
+              <e p="Intro" t="Include">
+                <e p="SelectDifficulty.cs" t="Include" />
+              </e>
+              <e p="Item" t="Include">
+                <e p="Item.cs" t="Include" />
+                <e p="ItemDB.cs" t="Include" />
+              </e>
+              <e p="Level" t="Include">
+                <e p="LevelSelector.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Lists" t="Include">
+              <e p="FirstChallenge" t="Include">
+                <e p="GameManager.cs" t="Include" />
+              </e>
+              <e p="Item Database" t="Include">
+                <e p="Item.cs" t="Include" />
+                <e p="ItemDB.cs" t="Include" />
+                <e p="Player.cs" t="Include" />
+              </e>
+              <e p="Object List" t="Include">
+                <e p="ObjectGenesis.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Namespaces" t="Include">
+              <e p="NamespacePractice1.cs" t="Include" />
+            </e>
+            <e p="Properties" t="Include">
+              <e p="GameManager1.cs" t="Include" />
+            </e>
+            <e p="Properties2" t="Include">
+              <e p="GameManager.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Intermediate Practices 3" t="Include">
+            <e p="Abstract Classes" t="Include">
+              <e p="Interfaces" t="Include">
+                <e p="Enemy.cs" t="Include" />
+                <e p="IDamagable.cs" t="Include" />
+                <e p="Main.cs" t="Include" />
+                <e p="Player.cs" t="Include" />
+                <e p="Shoot.cs" t="Include" />
+              </e>
+              <e p="Intro" t="Include">
+                <e p="Enemy.cs" t="Include" />
+              </e>
+              <e p="Practice1" t="Include">
+                <e p="Employee.cs" t="Include" />
+                <e p="FullTime.cs" t="Include" />
+                <e p="PartTime.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Delegates" t="Include">
+              <e p="Actions" t="Include">
+                <e p="Player.cs" t="Include" />
+                <e p="UIManager.cs" t="Include" />
+              </e>
+              <e p="DelegateFunctions" t="Include">
+                <e p="Main.cs" t="Include" />
+              </e>
+              <e p="Events" t="Include">
+                <e p="Cube.cs" t="Include" />
+                <e p="Main.cs" t="Include" />
+              </e>
+              <e p="Intro" t="Include">
+                <e p="Main.cs" t="Include" />
+              </e>
+              <e p="Lambda Expressions" t="Include">
+                <e p="Main.cs" t="Include" />
+              </e>
+              <e p="Practice 2 with Parameters" t="Include">
+                <e p="Main.cs" t="Include" />
+              </e>
+              <e p="Practice1" t="Include">
+                <e p="Cube.cs" t="Include" />
+                <e p="Main.cs" t="Include" />
+              </e>
+              <e p="Practice3 without Parameters" t="Include">
+                <e p="Main.cs" t="Include" />
+              </e>
+              <e p="Practice4 Return Type without Params" t="Include">
+                <e p="Main.cs" t="Include" />
+              </e>
+              <e p="Practice5 Return Type w Params" t="Include">
+                <e p="Main.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Intermediate Practices 4" t="Include">
+            <e p="Command Pattern" t="Include">
+              <e p="Intro" t="Include">
+                <e p="Commands" t="Include">
+                  <e p="ClickCommand.cs" t="Include" />
+                </e>
+                <e p="Interfaces" t="Include">
+                  <e p="ICommand.cs" t="Include" />
+                </e>
+                <e p="Managers" t="Include">
+                  <e p="CommandManager.cs" t="Include" />
+                </e>
+                <e p="UserInput.cs" t="Include" />
+              </e>
+              <e p="Practice1" t="Include">
+                <e p="Commands" t="Include">
+                  <e p="MoveDownCommand.cs" t="Include" />
+                  <e p="MoveLeftCommand.cs" t="Include" />
+                  <e p="MoveRightCommand.cs" t="Include" />
+                  <e p="MoveUpCommand.cs" t="Include" />
+                </e>
+                <e p="Interfaces" t="Include">
+                  <e p="ICommand.cs" t="Include" />
+                </e>
+                <e p="Managers" t="Include">
+                  <e p="CommandManager.cs" t="Include" />
+                </e>
+                <e p="Player.cs" t="Include" />
+              </e>
+            </e>
+            <e p="LINQ" t="Include">
+              <e p="LINQ - Challenge 2 Filter Items" t="Include">
+                <e p="LinqExample.cs" t="Include" />
+              </e>
+              <e p="LINQ - Challenge1" t="Include">
+                <e p="LinqExample.cs" t="Include" />
+              </e>
+              <e p="LINQ - Querys" t="Include">
+                <e p="Intro" t="Include">
+                  <e p="LinqExample.cs" t="Include" />
+                </e>
+              </e>
+              <e p="SyntaxTest" t="Include">
+                <e p="SyntaxTest.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Object Pooling" t="Include">
+              <e p="Challenge1" t="Include">
+                <e p="Bullet.cs" t="Include" />
+                <e p="Player.cs" t="Include" />
+                <e p="PoolManager.cs" t="Include" />
+              </e>
+              <e p="Intro" t="Include">
+                <e p="Bullet.cs" t="Include" />
+                <e p="Player.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Singleton" t="Include">
+              <e p="Challenge1" t="Include">
+                <e p="Player.cs" t="Include" />
+                <e p="SpawnManager.cs" t="Include" />
+              </e>
+              <e p="Intro" t="Include">
+                <e p="GameManager.cs" t="Include" />
+                <e p="Player.cs" t="Include" />
+              </e>
+              <e p="MonoSingleton" t="Include">
+                <e p="MonoSingleton.cs" t="Include" />
+              </e>
+              <e p="UI Manager" t="Include">
+                <e p="Player.cs" t="Include" />
+                <e p="UIManager.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="PlayHouse.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

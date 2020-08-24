@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82ad2ddf-dd82-4958-aca3-c50d07619f78" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediate Practices 4/Command Pattern/Practice1/Managers/CommandManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediate Practices 4/Command Pattern/Practice1/Interfaces/ICommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediate Practices 4/Command Pattern/Practice1/Commands/MoveUpCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediate Practices 4/Command Pattern/Practice1/Commands/MoveDownCommand.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Intermediate Practices 4/Object Pooling/Intro/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Intermediate Practices 4/Object Pooling/Challenge1/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Intermediate Practices 4/Object Pooling/Challenge1/PoolManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Intermediate Practices 4/Command Pattern/Interfaces/I.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Intermediate Practices 4/Command Pattern/Interfaces/ICommand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Intermediate Practices 4/Command Pattern/Commands/ClickCommand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Intermediate Practices 4/Command Pattern/UserInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Intermediate Practices 4/Command Pattern/Managers/CommandManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Intermediate Practices 4/Command Pattern/Practice1/Commands/MoveCommand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Intermediate Practices 4/Command Pattern/Practice1/Interfaces/ICommand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Intermediate Practices 4/Command Pattern/Intro/UserInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Intermediate Practices 4/Command Pattern/Practice1/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Intermediate Practices 4/Command Pattern/Practice1/Commands/MoveUpCommand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Intermediate Practices 4/Command Pattern/Practice1/Commands/MoveRightCommand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Intermediate Practices 4/Command Pattern/Practice1/Commands/MoveDownCommand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Intermediate Practices 4/Command Pattern/Practice1/Commands/MoveLeftCommand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Intermediate Practices 4/Command Pattern/Practice1/Managers/CommandManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g5usiQu5TniTIYS7F6Ek4AiWhm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82ad2ddf-dd82-4958-aca3-c50d07619f78" name="Default Changelist" comment="" />
+      <created>1597416985238</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597416985238</updated>
+      <workItem from="1597417001106" duration="136000" />
+      <workItem from="1597669488631" duration="6224000" />
+      <workItem from="1597756508116" duration="4213000" />
+      <workItem from="1597760851879" duration="750000" />
+      <workItem from="1597824363391" duration="4831000" />
+      <workItem from="1597847300550" duration="69000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="794" y="241" key="RiderGenerateDialog" timestamp="1597825607592">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="794" y="241" key="RiderGenerateDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1597825607592" />
+    <state x="422" y="22" key="SettingsEditor" timestamp="1597758900328">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="422" y="22" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1597758900328" />
+  </component>
+</project>
